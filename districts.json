@@ -1,0 +1,1543 @@
+{"districts":[
+  [
+    "ABC Unified School District",
+    "ABCUSD",
+    "https://parentportal.abcusd.us/Aeries.Net/"
+  ],
+  [
+    "ADLA District School District",
+    "ADLA",
+    "https://adla.asp.aeries.net/Student/"
+  ],
+  [
+    "Academy of Alameda School District",
+    "AOA",
+    "https://academyofalameda.asp.aeries.net/student/"
+  ],
+  [
+    "Acalanes Union School District",
+    "AUHSD",
+    "https://pass.acalanes.k12.ca.us/parent/"
+  ],
+  [
+    "Achieve Charter School of Paradise School District",
+    "ACSoPD",
+    "https://achievecharter.asp.aeries.net/Student/"
+  ],
+  [
+    "Acton Agua Dulce Unified School District",
+    "AADUSD",
+    "https://actonaguadulce.asp.aeries.net/Student/"
+  ],
+  [
+    "Adelanto Elementary School District",
+    "AESD",
+    "https://www.adelantoschools.com/pp/"
+  ],
+  [
+    "Alameda City Unified School District",
+    "AUSD",
+    "https://studentinfo.alameda.k12.ca.us/parents/"
+  ],
+  [
+    "Albany Unified School District",
+    "AUSD",
+    "https://albanyusd.asp.aeries.net/student/"
+  ],
+  [
+    "Alvord Unified School District",
+    "AUSD",
+    "https://alvord.asp.aeries.net/student/"
+  ],
+  [
+    "Amador County Unified School District",
+    "ACU",
+    "https://amadorcusd.asp.aeries.net/student/"
+  ],
+  [
+    "Anaheim Union School District",
+    "AU",
+    "https://aeriesconnect.auhsd.us/AUConnect/"
+  ],
+  [
+    "Anderson Union School District",
+    "AUHSD",
+    "https://parents.auhsd.net/"
+  ],
+  [
+    "Antelope Elementary School District",
+    "AESD",
+    "https://aesportal.tehamaschools.org/"
+  ],
+  [
+    "Apple Valley Unified School District",
+    "AVUSD",
+    "https://aeries.avusd.org/parents/"
+  ],
+  [
+    "Arena Union Elementary School District",
+    "AUESD",
+    "https://arena.asp.aeries.net/student/"
+  ],
+  [
+    "Atascadero Unified School District",
+    "AUSD",
+    "https://atascaderousd.asp.aeries.net/Student/"
+  ],
+  [
+    "Atwater School District ",
+    "AESD",
+    "https://aeries.aesd.edu/parent/"
+  ],
+  [
+    "Auburn Union School District",
+    "AUSD",
+    "https://aeriesportal.placercoe.k12.ca.us/parent/auesd/"
+  ],
+  [
+    "Azusa Unified School District",
+    "AUSD",
+    "https://ausdaeries2.azusa.org/parent/"
+  ],
+  [
+    "Bass Lake Joint Union Elementary School District",
+    "BLJUESD",
+    "https://basslakesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Bellarmine-Jefferson High School District",
+    "BJHSD",
+    "https://bellarminejeffersonchs.asp.aeries.net/student/"
+  ],
+  [
+    "Bellflower Unified School District",
+    "BUSD",
+    "https://parentportal.busd.k12.ca.us/"
+  ],
+  [
+    "Beverly Hills Unified School District",
+    "BHUSD",
+    "https://beverlyhillsusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Big Springs Union Elementary School District",
+    "BSESD ",
+    "https://bigspringsuesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Biggs Unified School District",
+    "BUSD",
+    "https://biggs.asp.aeries.net/student/"
+  ],
+  [
+    "Birmingham Community Charter High School District",
+    "BCCHSD",
+    "http://aeriesnet.birminghamcharter.com/parent/"
+  ],
+  [
+    "Bishop Mora Salesian High School District",
+    "BMSHS",
+    "https://bmshs.asp.aeries.net/Student/"
+  ],
+  [
+    "Black Oak Mine Unified School District",
+    "BOMUSD",
+    "https://aeries.bomusd.org/aeries.net/"
+  ],
+  [
+    "Bonita Unified School District",
+    "BUSD",
+    "https://parent.bonita.k12.ca.us/"
+  ],
+  [
+    "Bonsall Unified School District",
+    "BUSD",
+    "https://bonsallusd.asp.aeries.net/student/"
+  ],
+  [
+    "Brawley Union School District",
+    "BUSD",
+    "http://abi.brawleyhigh.org/parent/"
+  ],
+  [
+    "Brea Olinda Unified School District",
+    "BOUSD",
+    "https://breaolinda.asp.aeries.net/Student/"
+  ],
+  [
+    "Brethren Christian High School District",
+    "BCHS ",
+    "https://brethrenchristian.asp.aeries.net/Student/"
+  ],
+  [
+    "Brittan Elementary School District",
+    "BESD",
+    "https://portal.brittan.k12.ca.us/parent/"
+  ],
+  [
+    "Buena Park School District",
+    "BPSD",
+    "https://portal.bpsd.k12.ca.us/aeries.net/"
+  ],
+  [
+    "Burbank Unified School District",
+    "BUSD",
+    "https://burbankusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Calipatria Unified School District",
+    "CUSD",
+    "https://calipatriausd.asp.aeries.net/Student/"
+  ],
+  [
+    "Calistoga Joint Unified School District",
+    "CJUSD",
+    "https://calistogajusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Campbell Union School District",
+    "CUHSD",
+    "https://aeries.cuhsd.org/aeries.net/"
+  ],
+  [
+    "Cantwell Sacred Heart Of Mary",
+    "CSHOM",
+    "https://cantwellshm.asp.aeries.net/Student/"
+  ],
+  [
+    "Capistrano Unified School District",
+    "CAPOUSD",
+    "https://aeries.capousd.org/parentportal/"
+  ],
+  [
+    "Cardinal Newman",
+    "CN",
+    "https://cardinalnewman.asp.aeries.net/Student/"
+  ],
+  [
+    "Carlsbad Unified High School District",
+    "CUHSD",
+    "https://carlsbadusd.asp.aeries.net/student/"
+  ],
+  [
+    "Carmel Unified School District",
+    "CUSD",
+    "http://aeries.carmelunified.org/parent/"
+  ],
+  [
+    "Carpinteria Unified School District",
+    "CUSD",
+    "https://carpinteriausd.asp.aeries.net/Student/"
+  ],
+  [
+    "Cascade Union Elementary School District",
+    "CUESD",
+    "https://grades.cuesd.com/"
+  ],
+  [
+    "Castaic Union School District",
+    "CUSD",
+    "https://castaicusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Castro Valley Unified",
+    "CVD",
+    "https://castrovalleyusd.asp.aeries.net/student/"
+  ],
+  [
+    "Cayucos Elementary School District",
+    "CESD",
+    "https://cayucosesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Center Joint Unified School District",
+    "CJUSD",
+    "https://portal.centerusd.org/student/"
+  ],
+  [
+    "Central Elementary School District",
+    "CESD",
+    "https://centralsd.asp.aeries.net/Student/"
+  ],
+  [
+    "Central Unified School District",
+    "CUSD",
+    "https://portal.centralusd.k12.ca.us/Parent/"
+  ],
+  [
+    "Central Union High School District",
+    "CUHSD",
+    "https://parentportal.cuhsd.net/"
+  ],
+  [
+    "Charter Oak Unified School District",
+    "COUSD",
+    "https://portals.cousd.net/parent/"
+  ],
+  [
+    "Chico Country Day School District",
+    "CCDSD",
+    "https://chicocountrydayschool.asp.aeries.net/Student/"
+  ],
+  [
+    "Chico Unified School District",
+    "CUSD",
+    "https://hac.chicousd.org/"
+  ],
+  [
+    "Children's Community Charter School District",
+    "CCCSD",
+    "https://childrenscommunitycharterschool.asp.aeries.net/Student/"
+  ],
+  [
+    "Chino Valley Unified School District",
+    "CVUSD",
+    "https://aeriesweb.chino.k12.ca.us/parent/"
+  ],
+  [
+    "Chowchilla Elementary School District",
+    "CHOWKIDS",
+    "https://parent.chowkids.com/"
+  ],
+  [
+    "Chowchilla Union High School District",
+    "CHOWCILLAUHSD ",
+    "https://chowchillauhsd.asp.aeries.net/Student/"
+  ],
+  [
+    "Coachella Valley Unified School District",
+    "CVUSD",
+    "https://aeries.cvusd.us/ParentPortal/"
+  ],
+  [
+    "Columbia Union Elementary School District",
+    "CUESD",
+    "https://columbiaunionsd.asp.aeries.net/Student/"
+  ],
+  [
+    "Corcoran Unified School District",
+    "CUSD",
+    "http://aeries.corcoranunified.com/parentportal/"
+  ],
+  [
+    "Corning Union Elementary School District",
+    "CUESD",
+    "https://aeries.corningelementary.org/parentportal/"
+  ],
+  [
+    "Corning Union High School District",
+    "CUHSD",
+    "https://aeries.corninghs.org/portal/"
+  ],
+  [
+    "Cottonwood Union School District",
+    "CWUSD ",
+    "https://parents.cwusd.com/"
+  ],
+  [
+    "Covina-Valley Unified School District",
+    "C-VUSD",
+    "https://aeries.c-vusd.org/parentportal/"
+  ],
+  [
+    "Culver City Unified School District",
+    "CCUSD",
+    "https://culvercityusd.asp.aeries.net/student/"
+  ],
+  [
+    "Cypress School District",
+    "CSD",
+    "https://cypressesd.asp.aeries.net/student/"
+  ],
+  [
+    "Del Norte County Unified School District",
+    "DNCUSD",
+    "https://delnorte.asp.aeries.net/student/"
+  ],
+  [
+    "Delhi Unified School District",
+    "DUSD ",
+    "https://dusdparent.delhi.k12.ca.us/"
+  ],
+  [
+    "Dixon Unified School District",
+    "DUSD",
+    "https://homelink.dixonusd.org/"
+  ],
+  [
+    "Dos Palos Oro Lorna Joint Unified School District",
+    "DPOLJUSD",
+    "https://dospalosoroloma.asp.aeries.net/Student/"
+  ],
+  [
+    "Duarte Unified School District",
+    "DUSD",
+    "https://aeries.duarteusd.org/parent/"
+  ],
+  [
+    "East Nicolaus",
+    "EN",
+    "https://aeries.eastnicolaus.k12.ca.us/aeries.net/"
+  ],
+  [
+    "East Whittier City School District",
+    "EWCSD",
+    "https://ewcsd.asp.aeries.net/student/"
+  ],
+  [
+    "Eastern Sierra Unified School District",
+    "ESUSD",
+    "https://easternsierrausd.asp.aeries.net/Student/"
+  ],
+  [
+    "Eastside Union School District",
+    "EUSD",
+    "https://parentportal.eastsideusd.org/"
+  ],
+  [
+    "Edison Elementary School District",
+    "EESD",
+    "https://edisonesd.asp.aeries.net/student/"
+  ],
+  [
+    "El Camino Real Charter High District ",
+    "ECRCHD",
+    "https://elcaminoreal.asp.aeries.net/Student/"
+  ],
+  [
+    "El Dorado Union High School District ",
+    "EDUHSD",
+    "https://parentportal.eduhsd.k12.ca.us/aeries.net/"
+  ],
+  [
+    "El Rancho Unified School District",
+    "ERUSD",
+    "https://portal.erusd.k12.ca.us/Parent/"
+  ],
+  [
+    "Empire Union School District",
+    "EUSD",
+    "https://empireusd.asp.aeries.net/student/"
+  ],
+  [
+    "Encore School District",
+    "ESD",
+    "https://encorehighschool.asp.aeries.net/Student/"
+  ],
+  [
+    "Escalon Unified School District",
+    "EUSD",
+    "https://escalon.asp.aeries.net/Student/"
+  ],
+  [
+    "Esparto Unified School District",
+    "EUSD",
+    "https://aeriesportals.ycoe.org/esparto.parentportal/"
+  ],
+  [
+    "Etiwanda School District",
+    "ESD",
+    "https://aeries.etiwanda.org/parent/"
+  ],
+  [
+    "Evergreen Union Elementary School District ",
+    "EUESD",
+    "https://evergreen.asp.aeries.net/Student/"
+  ],
+  [
+    "Exeter Unified School District",
+    "EUSD",
+    "https://exeterusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Fairfield Suisun Unified School District",
+    "FSUSD",
+    "https://abip.fsusd.org/ParentPortal/"
+  ],
+  [
+    "Fall River Joint Unified School District",
+    "FRJUSD",
+    "https://fallriverjusd.asp.aeries.net/student/"
+  ],
+  [
+    "Ferndale Unified School District",
+    "FUSD",
+    "https://ferndaleusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Fort Bragg Unified School District",
+    "FBUSD",
+    "https://fortbraggusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Fowler Unified School District",
+    "FUSD",
+    "https://portal.fowlerusd.org/parent/"
+  ],
+  [
+    "Fortuna Elementary School District",
+    "FESD",
+    "https://fortunauesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Fortuna Union High School District ",
+    "FUHSD",
+    "https://fortunaunionhsd.asp.aeries.net/student/"
+  ],
+  [
+    "Fountain Valley School District",
+    "FVSD",
+    "https://portal.fvsd.us/"
+  ],
+  [
+    "Fullerton Joint Union High School Distric",
+    "FJTUHSD",
+    "https://mystudent.fjuhsd.net/parent/"
+  ],
+  [
+    "Garden Grove Unified School District (Student)",
+    "GGUSD",
+    "https://mykids.ggusd.us/"
+  ],
+  [
+    "Garvey School District",
+    "GSD",
+    "https://parent.garvey.k12.ca.us/"
+  ],
+  [
+    "Gateway Community Charters",
+    "GCC",
+    "https://aeries.gcccharters.org/parent/"
+  ],
+  [
+    "Gateway Unified School District",
+    "GWUSD",
+    "https://gateway.asp.aeries.net/student/"
+  ],
+  [
+    "Gilroy Unified School District",
+    "GUSD",
+    "https://gilroyusd.asp.aeries.net/student/"
+  ],
+  [
+    "Glendora Unified School District",
+    "GUSD",
+    "https://aeries.glendora.k12.ca.us/ParentPortal/"
+  ],
+  [
+    "Gold Oak Union School District",
+    "GOUSD",
+    "https://gousdaeries.edcoe.org/parent/"
+  ],
+  [
+    "Gold Trail Union School District",
+    "GTUSD",
+    "https://gtusdaeries.edcoe.org/parent/"
+  ],
+  [
+    "Golden Valley Unified School District",
+    "GVUSD",
+    "https://goldenvalleyusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Gonzales Unified School District",
+    "GUSD",
+    "https://gonzalesusd.asp.aeries.net/student/"
+  ],
+  [
+    "Grant Elementary School District",
+    "GESD",
+    "https://parent-net.grantschoolcougars.com/"
+  ],
+  [
+    "Greenfield Union School District",
+    "GFUSD",
+    "https://aeries.gfusd.net/aeries.net/"
+  ],
+  [
+    "Grenada Elementary School District",
+    "GESD",
+    "https://grenadaesd.asp.aeries.net/student/"
+  ],
+  [
+    "Gridley Unified School District",
+    "GUSD",
+    "https://gridleyusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Guadalupe Union School District",
+    "GUSD",
+    "https://guadalupe.asp.aeries.net/Student/"
+  ],
+  [
+    "Guajome Park Academy District",
+    "GPAD",
+    "https://parent.guajome.net/"
+  ],
+  [
+    "Guidance Charter School District",
+    "GUISD",
+    "https://guidancecharter.asp.aeries.net/Student/"
+  ],
+  [
+    "Gustine Unified School District",
+    "GUSD",
+    "https://aeries.gustineusd.org/parent/"
+  ],
+  [
+    "Hacienda La Puente Unified School District",
+    "HLPUSD",
+    "https://parent.hlpusd.k12.ca.us/aeries.net/"
+  ],
+  [
+    "Hamilton Unified School District",
+    "HUSD",
+    "https://hamiltonusd.asp.aeries.net/student/"
+  ],
+  [
+    "Hart Ransom Union Elementary School District",
+    "HRUESD",
+    "https://hartransom.asp.aeries.net/Student/"
+  ],
+  [
+    "Healdsburg Unified School District",
+    "HUSD",
+    "https://aeriesnet.husd.com/parentportal/"
+  ],
+  [
+    "Hemet Unified School District",
+    "HUSD",
+    "https://portals.hemetusd.org/aeries.net/"
+  ],
+  [
+    "Hilmar Unified School District",
+    "HUSD",
+    "https://adn.hilmar.k12.ca.us/hilmarportal/"
+  ],
+  [
+    "Holy Family High School College Preparatory",
+    "HFHSCP",
+    "https://holyfamilyhs.asp.aeries.net/Student/"
+  ],
+  [
+    "Howell Mountain Elementary School District",
+    "HMESD",
+    "https://howellmountainesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Hughes-Elizabeth Lakes Union School District",
+    "H-ELUSD",
+    "https://heluesd.asp.aeries.net/student/"
+  ],
+  [
+    "Huntington Beach Union High School District",
+    "HBUHSD",
+    "https://aeries.hbuhsd.edu/parent/"
+  ],
+  [
+    "Inglewood Unified School District",
+    "IUSD",
+    "https://inglewoodusd.asp.aeries.net/Student/"
+  ],
+  [
+    "International Polytechnic High Schoo Districtl",
+    "ipoly",
+    "https://ipoly.asp.aeries.net/student/"
+  ],
+  [
+    "Irvine Unified School District",
+    "IUSD",
+    "https://my.iusd.org/"
+  ],
+  [
+    "Jefferson Elementary School District",
+    "JESD",
+    "https://jefferson.asp.aeries.net/Student/"
+  ],
+  [
+    "John Adams Academy",
+    "JAA",
+    "https://parents.johnadamsacademy.org/"
+  ],
+  [
+    "John Swett Unified School District",
+    "jsusd",
+    "https://jsusd.asp.aeries.net/student/"
+  ],
+  [
+    "Kairos Public School Vacaville Academy",
+    "KPSVA",
+    "https://kairospsvacavilleacademy.asp.aeries.net/Student/"
+  ],
+  [
+    "Kerman Unified School District",
+    "KUSD",
+    "https://aeries.kermanusd.com/parent/"
+  ],
+  [
+    "Keyes Union School District",
+    "KUSD",
+    "https://aeries.keyes.k12.ca.us/parent/"
+  ],
+  [
+    "Kingsburg High School District",
+    "KHSD",
+    "https://kingsburgjuhsd.asp.aeries.net/Student/"
+  ],
+  [
+    "Kingsburg Joint Union Elementary School District",
+    "KJUHSD",
+    "https://abi.kingsburg-elem.k12.ca.us/parent/"
+  ],
+  [
+    "La Habra City School District",
+    "LHCSD",
+    "https://lahabraschools.asp.aeries.net/Student/"
+  ],
+  [
+    "Lafayette Elementary",
+    "LE",
+    "https://lafayette.asp.aeries.net/Student/"
+  ],
+  [
+    "Laguna Beach Unified School District",
+    "LBUSD",
+    "https://portal.lbusd.org/"
+  ],
+  [
+    "Lake Tahoe Unified School District",
+    "LTUSD",
+    "https://laketahoe.asp.aeries.net/Student/"
+  ],
+  [
+    "Lakeside Unified School District",
+    "LUSD",
+    "https://lakesideusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Lammersville School District",
+    "LSD",
+    "https://lammersville.asp.aeries.net/Student/"
+  ],
+  [
+    "Las Virgenes Unified (Parent)",
+    "LVUSD",
+    "https://parent.lvusd.org/"
+  ],
+  [
+    "Le Grand Union High School District",
+    "IGHS",
+    "https://abi.lghs.k12.ca.us/parent/"
+  ],
+  [
+    "Lemoore Union Elementary School District",
+    "IUESD",
+    "https://parentport.luesd.k12.ca.us/"
+  ],
+  [
+    "Lemoore Union High School District",
+    "IUHSD",
+    "https://portal.luhsd.k12.ca.us/"
+  ],
+  [
+    "Liberty Union High School District",
+    "LUHSD",
+    "https://luhsd.asp.aeries.net/student/"
+  ],
+  [
+    "Lincoln Unified School District",
+    "LUSD",
+    "https://lincoln.asp.aeries.net/Student/"
+  ],
+  [
+    "Linden Unified School District",
+    "LUSD",
+    "https://linden.asp.aeries.net/Student/"
+  ],
+  [
+    "Live Oak Unified School District",
+    "LOUSD",
+    "https://parent.lousd.k12.ca.us/"
+  ],
+  [
+    "Livingston Union School District",
+    "LUSD",
+    "https://parentportalnet.lusd.k12.ca.us/"
+  ],
+  [
+    "Lodi Unified School District",
+    "LUSD",
+    "https://homeaccess.lodiusd.net/parent/"
+  ],
+  [
+    "Loomis Union School District",
+    "LUSD",
+    "https://aeries.loomis-usd.k12.ca.us/parent/"
+  ],
+  [
+    "Los Alamitos Unified School District ",
+    "LAUSD",
+    "https://aeriesportal.losal.org/parent/"
+  ],
+  [
+    "Los Banos Unified School District",
+    "LBUSD",
+    "https://parentportal.losbanosusd.k12.ca.us/parentportal/"
+  ],
+  [
+    "Los Molinos Unified School District",
+    "LMUSD",
+    "https://lmusdparent.tehamaschools.org/"
+  ],
+  [
+    "Lost Hills Union School District",
+    "LHUSD",
+    "https://losthillsuesd.asp.aeries.net/student/"
+  ],
+  [
+    "Lucerne Valley Unified School District",
+    "LVUSD",
+    "https://lvusd.asp.aeries.net/student/"
+  ],
+  [
+    "Lucia Mar Unified School District",
+    "LMUSD",
+    "https://parent.lmusd.org/"
+  ],
+  [
+    "Lynwood Unified School District",
+    "LUSD",
+    "https://lynwoodusd.asp.aeries.net/student/"
+  ],
+  [
+    "Madera Unified School District",
+    "MUSD",
+    "https://abi.madera.k12.ca.us/parentportal/"
+  ],
+  [
+    "Mammoth Unified School District",
+    "MUSD",
+    "https://aeries.mammothusd.org/parent/"
+  ],
+  [
+    "Manhattan Beach Unified School District",
+    "MBUSD",
+    "https://mbusd.asp.aeries.net/student/"
+  ],
+  [
+    "Manzanita Elementary School District",
+    "MESD",
+    "https://manzanita.asp.aeries.net/Student/"
+  ],
+  [
+    "Marysville Joint Unified School District",
+    "MJUSD",
+    "https://aeries-1.mjusd.com/parent/"
+  ],
+  [
+    "Mater Dei High School District",
+    "MDHSD",
+    "https://materdei.asp.aeries.net/Student/"
+  ],
+  [
+    "McSwain Union Elementary School District",
+    "MUESD",
+    "https://mcswainuesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Mendocino Unified School District",
+    "MUSD",
+    "https://musdpwp.mcn.org/parentportal/"
+  ],
+  [
+    "Merced Union High School District",
+    "MUHSD",
+    "https://muhsd.asp.aeries.net/Student/"
+  ],
+  [
+    "Milpitas Unified School District",
+    "MUSD",
+    "https://go.musd.org/"
+  ],
+  [
+    "Mojave Unified School District",
+    "MUSD",
+    "https://outside.mojave.k12.ca.us/parents/"
+  ],
+  [
+    "Morgan Hill Unified School District",
+    "MHUSD",
+    "https://morganhillusd.asp.aeries.net/student/"
+  ],
+  [
+    "Mountain Valley Unified School District",
+    "MVUSD",
+    "https://mountainvalleyusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Mountain View-Los Altos Union School District",
+    "MVLA",
+    "https://mvla.asp.aeries.net/student/"
+  ],
+  [
+    "Mt. Baldy Joint Elementary School District",
+    "MBJESD",
+    "https://mtbaldyjesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Muroc Joint Unified School District",
+    "MJUSD",
+    "https://murocjusd.asp.aeries.net/student/"
+  ],
+  [
+    "NOVA Academy",
+    "NOVAA",
+    "https://novaacademy.asp.aeries.net/student/"
+  ],
+  [
+    "New Jerusalem Elementary School District",
+    "NJESD",
+    "https://newjerusalemesd.asp.aeries.net/student/"
+  ],
+  [
+    "North Cow Creek School District",
+    "NCCSD",
+    "https://aeries.northcowcreek.org/student/"
+  ],
+  [
+    "Novato Unified School District",
+    "NUSD",
+    "https://aeries.nusd.org/parent/"
+  ],
+  [
+    "Oak Grove Union School District",
+    "OGUSD",
+    "https://oakgroveusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Oakdale Joint Unified School District",
+    "OJUSD",
+    "https://oakdalejusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Oakland Military District",
+    "OMD",
+    "https://oaklandmilitaryicp.asp.aeries.net/student/"
+  ],
+  [
+    "Oakland Unified School District ",
+    "OUSD",
+    "https://parent.ousd.org/"
+  ],
+  [
+    "Ocean View School District",
+    "OVSD",
+    "https://portal.ovsd.org/"
+  ],
+  [
+    "Oceanside Unified School District",
+    "OUSD",
+    "https://my.oside.us/"
+  ],
+  [
+    "Orange County School of the Arts",
+    "OSCA ",
+    "https://familysis.ocsarts.net/"
+  ],
+  [
+    "Orange Unified School District (fixed)",
+    "OUSD",
+    "https://ps.orangeusd.org/"
+  ],
+  [
+    "Orcutt Union School District",
+    "OUSD",
+    "https://orcutt.asp.aeries.net/Student/"
+  ],
+  [
+    "Orland Unified School District",
+    "OUSD",
+    "https://parent-net.orlandusd.net/"
+  ],
+  [
+    "Oro Grande School District",
+    "OGSD",
+    "https://orogrande.asp.aeries.net/Student/"
+  ],
+  [
+    "Oroville Union High School District",
+    "OUHSD",
+    "https://parent.ouhsd.org/"
+  ],
+  [
+    "Oxford Preparatory Academy Charter Schools",
+    "OPACS",
+    "https://oxfordprep.asp.aeries.net/Student/"
+  ],
+  [
+    "Palos Verdes Peninsula Unified School District",
+    "PVPUSD",
+    "https://palosverdes.asp.aeries.net/student/"
+  ],
+  [
+    "Paradise Unified School District",
+    "PUSD",
+    "https://aeries.pusdk12.org/ParentPortal/"
+  ],
+  [
+    "Pasadena Unified School District",
+    "PUSD",
+    "https://pasadenausd.asp.aeries.net/Student/"
+  ],
+  [
+    "Paso Robles Joint Unified School District",
+    "PRJUSD",
+    "https://aeriesnet.pasoschools.org/parentportal/"
+  ],
+  [
+    "Pioneer Union School District",
+    "PUSD",
+    "https://pioneeraeries.edcoe.org/parent/"
+  ],
+  [
+    "Pittsburg Unified School District",
+    "PUSD",
+    "https://aeriesnet.pittsburg.k12.ca.us/parentportal/"
+  ],
+  [
+    "Placentia-Yorba Linda Unified School District",
+    "PYLUSD",
+    "https://portal.pylusd.org/"
+  ],
+  [
+    "Placer Union School District",
+    "PUSD",
+    "https://aeriesportal.placercoe.k12.ca.us/parent/puhsd/"
+  ],
+  [
+    "Placerville Union School District",
+    "PUSD",
+    "https://aeries.pusdk8.us/parentportal/"
+  ],
+  [
+    "Planada Elementary School District",
+    "PESD",
+    "https://planadaesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Plumas Lake Elementary School District",
+    "PLESD",
+    "https://plumaslakeesd.asp.aeries.net/student/"
+  ],
+  [
+    "Point Arena Joint Union School District",
+    "PAJUSD",
+    "https://pointarena.asp.aeries.net/Student/"
+  ],
+  [
+    "Port of Los Angeles High School District",
+    "PLAHSD",
+    "https://portoflahs.asp.aeries.net/Student/"
+  ],
+  [
+    "Providence High School",
+    "PHS",
+    "https://aeries.providencehigh.org/students/"
+  ],
+  [
+    "Red Bluff Union Elementary School District",
+    "RBUESD",
+    "https://portal.rbuesd.org/"
+  ],
+  [
+    "Redding School District",
+    "RSD",
+    "https://aeries.reddingschools.net/parent/"
+  ],
+  [
+    "Redlands Unified School District",
+    "RUSD",
+    "https://redlands.asp.aeries.net/student/"
+  ],
+  [
+    "Reef-Sunset Unified School District",
+    "R-SUSD",
+    "https://reefsunset.asp.aeries.net/Student/"
+  ],
+  [
+    "Richfield Elementary School District",
+    "RESD",
+    "https://richfieldparent.tehamaschools.org/"
+  ],
+  [
+    "Rim of the World Unified School District",
+    "RWUSD",
+    "https://rimoftheworld.asp.aeries.net/Student/"
+  ],
+  [
+    "Ripon Unified School District",
+    "RUSD",
+    "https://ripon.asp.aeries.net/Student/"
+  ],
+  [
+    "River Delta Unified School District",
+    "RDUSD",
+    "https://riverdeltausd.asp.aeries.net/student/"
+  ],
+  [
+    "Riverbank Unified School District",
+    "RUSD",
+    "https://riverbankusd.asp.aeries.net/Student/"
+  ],
+  [
+    "Riverside Unified School District",
+    "RUSD",
+    "https://aeriesportal.rusd.k12.ca.us/"
+  ],
+  [
+    "Rocklin Unified School District",
+    "RUSD",
+    "https://parent.rocklinusd.org/parent/"
+  ],
+  [
+    "Rosary Academy",
+    "RA",
+    "https://rosary.asp.aeries.net/Student/"
+  ],
+  [
+    "Roseville Joint Union School District",
+    "RJUSD",
+    "https://rosevillejuhsd.asp.aeries.net/student/"
+  ],
+  [
+    "Ross Elementary School District",
+    "RESD",
+    "https://parent.marinschools.org/ross/"
+  ],
+  [
+    "Rowland Unified School District",
+    "RUSD",
+    "https://aeries.rowlandschools.org/homelink/"
+  ],
+  [
+    "Saddleback Valley Unified School District",
+    "SDVUSD",
+    "https://familyportal.svusd.org/ParentPortal/"
+  ],
+  [
+    "Salesian College Preparatory",
+    "SCP",
+    "https://salesiancp.asp.aeries.net/student/"
+  ],
+  [
+    "Salida Union School District",
+    "SUSD",
+    "https://aeriesweb.salida.k12.ca.us/Parent/"
+  ],
+  [
+    "San Bernardino City Unified School District",
+    "SBCUSD",
+    "https://sbcusd.asp.aeries.net/student/"
+  ],
+  [
+    "San Dieguito Union High School District",
+    "SDUHSD",
+    "https://parent.sduhsd.net/ParentPortal/"
+  ],
+  [
+    "San Gabriel Unified School District",
+    "SGUSD",
+    "https://sis.sgusd.k12.ca.us/portal/"
+  ],
+  [
+    "San Jacinto Unified School District",
+    "SJUSD",
+    "https://sanjacintousd.asp.aeries.net/student/"
+  ],
+  [
+    "San Jacinto Valley Academy District",
+    "SJVAD",
+    "https://sanjacintovalleyacademy.asp.aeries.net/Student/"
+  ],
+  [
+    "San Luis Obispo County Office of Education",
+    "SLOCOE",
+    "https://slocoe.asp.aeries.net/Student/"
+  ],
+  [
+    "San Miguel Joint Union School District",
+    "SMJUSD",
+    "https://sanmigueljusd.asp.aeries.net/student/"
+  ],
+  [
+    "San Rafael Elementary School District",
+    "SANRAFAEL",
+    "https://sanrafael.asp.aeries.net/studentES/"
+  ],
+  [
+    "San Rafael High School District",
+    "SRHSD",
+    "https://sanrafael.asp.aeries.net/studentHS/"
+  ],
+  [
+    "Santa Ana Unified School District",
+    "SAUSD",
+    "https://eportal.sausd.us/parentportal/"
+  ],
+  [
+    "Santa Barbara Unified School District",
+    "SBUSD",
+    "https://aeries.sbunified.org/parent/"
+  ],
+  [
+    "Santa Margarita Catholic High School",
+    "SMHS",
+    "https://aeries.smhs.org/parent/"
+  ],
+  [
+    "Santa Maria Joint Union School District",
+    "SMJUHSD",
+    "https://aeriesnet.smjuhsd.k12.ca.us/parentportal/"
+  ],
+  [
+    "Santa Ynez Valley Union High School District",
+    "SYVUHSD",
+    "https://santaynezvuhsd.asp.aeries.net/Student/"
+  ],
+  [
+    "Savanna Elementary School District",
+    "SESD",
+    "https://savannasd.asp.aeries.net/Student/"
+  ],
+  [
+    "Scott Valley Unified School District",
+    "SVUSD",
+    "https://scottvalleyusd.asp.aeries.net/student/"
+  ],
+  [
+    "Servite",
+    "S",
+    "https://servite.asp.aeries.net/student/"
+  ],
+  [
+    "Shasta Union High School District",
+    "SUHSD",
+    "https://parent-net.suhsd.net/parentPortal/"
+  ],
+  [
+    "Simi Valley Unified School District",
+    "SVUSD",
+    "https://awps.simivalleyusd.org/aeries.net/"
+  ],
+  [
+    "Siskiyou Union High School District",
+    "SISUHSD",
+    "https://parent-net.sisuhsd.net/"
+  ],
+  [
+    "Solana Beach School District",
+    "SBSD",
+    "https://sis.sbsd.k12.ca.us/parent/"
+  ],
+  [
+    "Soledad Unified School District",
+    "SUSD",
+    "https://aeries.soledadusd.org/aeries.net/"
+  ],
+  [
+    "Solvang Elementary School District",
+    "SESD",
+    "https://solvangesd.asp.aeries.net/student/"
+  ],
+  [
+    "Sonora Elementary School Distric",
+    "SESD",
+    "https://sonoraesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Sonora Union High School District",
+    "SUHSD",
+    "https://abi.sonorahs.k12.ca.us/portal/"
+  ],
+  [
+    "South Monterey County Joint Union School District",
+    "SMCJUHSD",
+    "https://smcjuhsd.asp.aeries.net/student/"
+  ],
+  [
+    "South Pasadena Unified School District",
+    "SPUSD",
+    "https://my.spusd.net/parentportal/"
+  ],
+  [
+    "South Whittier Elementary School District",
+    "SWHITTIER",
+    "https://parentportal.swhittier.k12.ca.us/"
+  ],
+  [
+    "Southern Kern Unified School District",
+    "SKUSD",
+    "https://southernkern.asp.aeries.net/Student/"
+  ],
+  [
+    "St. Genevieve Parish Schools",
+    "SGPS",
+    "https://portal.sgps.org/aeries.net/"
+  ],
+  [
+    "St. Helena Unified School District",
+    "SHUSD",
+    "https://sis.sthelenaunified.org/aeries.net/"
+  ],
+  [
+    "Stanislaus Union Elementary District",
+    "SUED",
+    "https://do-aeries-abi1.stanunion.k12.ca.us/parentportal/"
+  ],
+  [
+    "Strathmore Union Elementary School District",
+    "SUESD",
+    "https://aeries.suesd.k12.ca.us/parent/"
+  ],
+  [
+    "Sulphur Springs Union High School District",
+    "SSUHSD",
+    "https://sulphursprings.asp.aeries.net/Student/"
+  ],
+  [
+    "Sunol Glen Unified School District",
+    "SGUSD",
+    "https://sunolglenusd.asp.aeries.net/student/"
+  ],
+  [
+    "Sutter Union High School District",
+    "SUHSD",
+    "https://portal.sutterhigh.k12.ca.us/parent/"
+  ],
+  [
+    "Sylvan Union School District",
+    "SUSD",
+    "https://sylvan.asp.aeries.net/student/"
+  ],
+  [
+    "Taft Union School District",
+    "TAFT",
+    "https://aeries.taft.k12.ca.us/mycats/"
+  ],
+  [
+    "Tahoe-Truckee Unified School District",
+    "T-TUSD",
+    "https://aeriesportal.placercoe.k12.ca.us/parent/ttusd/"
+  ],
+  [
+    "Tehachapi Unified School District",
+    "TUSD",
+    "https://tehachapi.asp.aeries.net/Student/"
+  ],
+  [
+    "Temecula Preparatory School District",
+    "TEMECULAPREP",
+    "https://temeculaprep.asp.aeries.net/Student/"
+  ],
+  [
+    "Temple City Unified School District",
+    "TCUSD",
+    "https://aeriesnet.tcusd.net/parent/"
+  ],
+  [
+    "The Preuss School UCSD District",
+    "PSUD",
+    "https://preuss.asp.aeries.net/Student/"
+  ],
+  [
+    "Thermalito Union School District",
+    "TUSD",
+    "https://abi.thermalito.org/aeries.net/"
+  ],
+  [
+    "Tipton Elementary School District",
+    "TESD",
+    "https://tiptonesd.asp.aeries.net/Student/"
+  ],
+  [
+    "Tracy Unified School District",
+    "TUSD",
+    "https://sisweb.tusd.net/ParentPortal/"
+  ],
+  [
+    "Tulare City School District",
+    "TCSDK",
+    "http://parentportal.tcsdk8.org/"
+  ],
+  [
+    "Tulare Joint Union High School District",
+    "TJUHSD",
+    "https://grades.tulare.k12.ca.us/aeries.net/"
+  ],
+  [
+    "Turlock Unified School District",
+    "TUSD",
+    "https://aeries.turlock.k12.ca.us/aeries.net/"
+  ],
+  [
+    "Tustin Unified School District",
+    "TUSD",
+    "https://parentnet.tustin.k12.ca.us/ParentPortal/"
+  ],
+  [
+    "Twin Hills Union School District",
+    "TWUSD",
+    "https://twinhillsusd.asp.aeries.net/student/"
+  ],
+  [
+    "Ukiah Unified School District",
+    "UUSD",
+    "https://aeriesgrading.uusd.net/ParentPortal/"
+  ],
+  [
+    "Upland Unified School District",
+    "UUSD",
+    "https://uusdaeries.upland.k12.ca.us/parent/"
+  ],
+  [
+    "Val Verde Unified School District",
+    "VVUSD",
+    "https://aeriesweb.valverde.edu/parentportal/"
+  ],
+  [
+    "Vaughn Next Century Learning Center District",
+    "VAUGHNNCLC",
+    "https://vaughnnclc.asp.aeries.net/Student/"
+  ],
+  [
+    "Victor Valley Union High School District",
+    "VVUHSD",
+    "https://portal.vvuhsd.org/parent/"
+  ],
+  [
+    "Vista Unified School District",
+    "VISTAUSD",
+    "https://parents.vistausd.org/"
+  ],
+  [
+    "Walnut Creek School District",
+    "WCSD",
+    "https://portal.wcsd.k12.ca.us/parent/"
+  ],
+  [
+    "Wasco Union Elementary School District",
+    "WUESD",
+    "https://aeriesnet.wuesd.org/parent/"
+  ],
+  [
+    "Wasco Union High School District",
+    "WASCOHSD",
+    "https://net.wascohsd.org/ParentPortal/"
+  ],
+  [
+    "Washington Unified School District",
+    "WUSD",
+    "https://aeries.wusd.k12.ca.us/parentportal/"
+  ],
+  [
+    "Washington Unified School District (Fresno)",
+    "WUSD",
+    "https://washington.asp.aeries.net/Student/"
+  ],
+  [
+    "Weaver Union School District",
+    "WUSD",
+    "https://parent.weaverusd.org/"
+  ],
+  [
+    "West Covina Unified School District",
+    "WCUSD",
+    "https://aeriesnet.wcusd.k12.ca.us/ExternalParent/"
+  ],
+  [
+    "Westminster School District",
+    "WSDK",
+    "https://parentportal.wsdk8.us/parent/"
+  ],
+  [
+    "Wheatland Union School District",
+    "WUSD",
+    "https://sis.wheatlandhigh.org/parents/"
+  ],
+  [
+    "Whittier Union High School District",
+    "WUHSD",
+    "https://aeries.wuhsd.org/parent/"
+  ],
+  [
+    "Wilder's Preparatory Academy Charter",
+    "WPAC",
+    "https://wildersprepacademy.asp.aeries.net/Student/"
+  ],
+  [
+    "Willows Unified School District",
+    "WUSD",
+    "http://portal.willowsunified.org/student/"
+  ],
+  [
+    "Windsor Unified School District",
+    " WUSD",
+    "https://aeriesnet.wusd.org/parent/"
+  ],
+  [
+    "Winton",
+    "WASCOHSD",
+    "http://wintonabi.winton.k12.ca.us/parent/"
+  ],
+  [
+    "Wonderful College Prep Academy District",
+    "WCPAD",
+    "https://wonderfulcpa.asp.aeries.net/Student/"
+  ],
+  [
+    "Yosemite Unified School District",
+    "YUSD",
+    "https://yosemiteusd.asp.aeries.net/student/"
+  ],
+  [
+    "Yreka Union Elementary Elementary School District",
+    "YUESD",
+    "https://yrekausd.asp.aeries.net/Student/"
+  ],
+  [
+    "Yuba City Unified School District",
+    "YCUSD",
+    "https://portal.ycusd.k12.ca.us/StudentParentPortal/"
+  ],
+  [
+    "Yucaipa-Calimesa Joint Unified School District",
+    "YCJU",
+    "https://abi.ycjusd.us/portalaccess/"
+  ],
+  [
+    "Coalinga-Huron Unified School District",
+    "CHUSD",
+    "https://aeries.chusd.org/portal/"
+  ],
+  [
+    "Fallbrook Union High School District",
+    "FUHSD",
+    "https://psportal.fuhsd.net/aeriesweb/"
+  ],
+  [
+    "Fallbrook Union High School District",
+    "FUHSD",
+    "https://psportal.fuhsd.net/aeriesweb/"
+  ],
+  [
+    "Murrieta Valley Unified School District",
+    "MUSD",
+    "https://aeriesnet.murrieta.k12.ca.us/parent/"
+  ],
+  [
+    "District List Version 1.03",
+    "Test",
+    "https://sp.orangeusd.org/"
+  ]
+]
+}
