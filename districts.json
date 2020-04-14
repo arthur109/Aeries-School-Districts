@@ -757,7 +757,7 @@
   {"name": "Paso Robles Joint Unified School District", "secondary": "PRJUSD", "url": "https://aeries.pasoschools.org/ParentPortal/"},
   {"name": "Isleton Elementary School", "secondary": "River Delta Joint Unified School District", "url": "https://riverdeltausd.asp.aeries.net/student/"},
   {"name": "Igo Ono Platina Union Elementary School District", "secondary": "IOPUESD", "url": "https://igoaeries.reddingschools.net/parent/"},
-  {"name": "Igo-Ono Elementary School", "secondary": "Igo Ono Platina Union Elementary School District", "url": "https://igoaeries.reddingschools.net/parent/"},
+  {"name": "Igo Ono Elementary School", "secondary": "Igo Ono Platina Union Elementary School District", "url": "https://igoaeries.reddingschools.net/parent/"},
   {"name": "Inyokern Elementary School", "secondary": "Sierra Sands Unified School District", "url": "https://ssusd.asp.aeries.net/student/"},
   {"name": "Imperial Elementary School", "secondary": "Orange Unified School District", "url": "https://api.orangeusd.org/api/"},
   {"name": "Indian Springs High School", "secondary": "Independent School", "url": "https://sbcusd.asp.aeries.net/student/"},
