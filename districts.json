@@ -1,5 +1,6 @@
 {"districts":[{"name": "Earlimart Elementary School District", "secondary": "EESD", "url": "https://portal.earlimart.org/parent/"},
   {"name": "Alila School", "secondary": "Earlimart Elementary School District", "url": "https://portal.earlimart.org/parent/"},
+  {"name": "San Jacinto Unified School District", "secondary": "SJUSD", "url": "https://sanjacintousd.asp.aeries.net/student/"},
   {"name": "Anderson School", "secondary": "Independent School", "url": "https://sbcusd.asp.aeries.net/student/"},
   {"name": "Alpine Vista School", "secondary": "Independent School", "url": "https://parentportal.tcsdk8.org/"},
   {"name": "ABC Unified School District", "secondary": "AUSD", "url": "https://parentportal.abcusd.us/Aeries.Net/"},
